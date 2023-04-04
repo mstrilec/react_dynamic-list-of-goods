@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,KACE,WAAY,CACb,OAGC,iBAAkB,CACnB,cAGC,eAAgB","file":"main.259f28e2.chunk.css","sourcesContent":["// styles go here\nbody {\n  margin: 20px;\n}\n\nbutton {\n  margin-right: 10px;\n}\n\n.notification {\n  max-width: 500px;\n}\n"]}
